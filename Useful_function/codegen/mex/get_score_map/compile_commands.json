@@ -1,0 +1,56 @@
+[
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   get_score_map_data.c -o build/win64/get_score_map_data.o",
+    "file": "get_score_map_data.c",
+    "output": "build/win64/get_score_map_data.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   get_score_map_initialize.c -o build/win64/get_score_map_initialize.o",
+    "file": "get_score_map_initialize.c",
+    "output": "build/win64/get_score_map_initialize.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   get_score_map_terminate.c -o build/win64/get_score_map_terminate.o",
+    "file": "get_score_map_terminate.c",
+    "output": "build/win64/get_score_map_terminate.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   get_score_map.c -o build/win64/get_score_map.o",
+    "file": "get_score_map.c",
+    "output": "build/win64/get_score_map.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_get_score_map_api.c -o build/win64/_coder_get_score_map_api.o",
+    "file": "interface/_coder_get_score_map_api.c",
+    "output": "build/win64/_coder_get_score_map_api.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_get_score_map_mex.c -o build/win64/_coder_get_score_map_mex.o",
+    "file": "interface/_coder_get_score_map_mex.c",
+    "output": "build/win64/_coder_get_score_map_mex.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_get_score_map_info.c -o build/win64/_coder_get_score_map_info.o",
+    "file": "interface/_coder_get_score_map_info.c",
+    "output": "build/win64/_coder_get_score_map_info.o"
+  },
+  {
+    "directory": "D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2020b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\" -I \"D:\\OneDrive - Imperial College London\\IC\\PhD_breath\\Useful_function\\codegen\\mex\\get_score_map\\interface\" -I \"D:\\MATLAB\\extern\\include\" -I \".\" -DMODEL=get_score_map_mex -D__USE_MINGW_ANSI_STDIO=1   D:/MATLAB/extern/version/c_mexapi_version.c -o build/win64/c_mexapi_version.o",
+    "file": "D:/MATLAB/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
