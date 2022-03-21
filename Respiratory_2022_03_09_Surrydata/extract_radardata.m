@@ -5,7 +5,9 @@ close all
 load('SDRI001_RDREV04_025V4N1.mat') 
 load('participants_25_PSG_night.mat') 
 
-time_axis = linspace(date_start,date_end,length(time));
+time_axis = datetime(unixTime,'ConvertFrom','epochtime','TicksPerSecond',1e3,'Format','dd-MMM-yyyy HH:mm:ss.SSS');
+
+% time_axis = linspace(date_start,date_end,length(time));
 index_time = isbetween(time_axis,light_off_time,light_on_time);
 time_axis_radar = time_axis(index_time);
 
